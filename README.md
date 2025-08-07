@@ -1,4 +1,4 @@
-# bls-shamri
+# bls-shamir
 
 Shamir secret sharing over BLS keys. 
 
